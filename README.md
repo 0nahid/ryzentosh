@@ -4,7 +4,7 @@
 
 ## macOS version: 13.4
 
-My laptop: ASUS D509DJ-EJ030T
+My laptop: ASUS D509DJ-EJ030T 
 
 CPU: AMD Ryzen 5 3500U
 
