@@ -1,8 +1,8 @@
-# OpenCore EFI for AMD Laptops (updated to Ventura 13.4)
+# OpenCore EFI for AMD Laptops (updated to Ventura 13.6.1)
 
 ## OpenCore version: 0.9.5
 
-## macOS version: 13.4
+## macOS version: 13.6.1
 
 My laptop: ASUS D509DJ-EJ030T 
 
